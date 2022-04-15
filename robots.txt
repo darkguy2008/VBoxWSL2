@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://darkguy2008.github.io/VBoxWSL2/sitemap.xml.gz
